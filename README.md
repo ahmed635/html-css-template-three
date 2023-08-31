@@ -1,2 +1,3 @@
 # html-css-template-three
-## this template from unique coderz acadmay
+### HTML and CSS template from Unique Coderz Academy
+  - for [demo](https://ahmed635.github.io/html-css-template-three/)
